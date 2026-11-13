@@ -1,0 +1,16 @@
+
+.git
+.env
+.env.*
+!.env.example
+.cursor
+.cursor.zip
+node_modules
+vendor
+public/build
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+database/*.sqlite
+database/*.sqlite-journal
