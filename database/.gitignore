@@ -1,0 +1,14 @@
+*.sqlite*
+# Local database
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# Logs and temporary files
+/storage/logs/*
+/storage/inertia-devtools/*
+
+# Local archives
+.cursor.zip
+
+# Generated frontend assets
+/public/build/
